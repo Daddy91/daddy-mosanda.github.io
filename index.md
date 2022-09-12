@@ -5,7 +5,7 @@
 ### Data Analytics 
 
 [Bellabeat Case Study with R](https://www.kaggle.com/code/malysd91/bellabeat-case-study-with-r)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bella.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
