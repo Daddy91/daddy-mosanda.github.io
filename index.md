@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Bellabeat Case Study with R](https://www.kaggle.com/code/malysd91/bellabeat-case-study-with-r)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
